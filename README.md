@@ -87,10 +87,6 @@ Dashboard includes:
 - Matrix for Attack_Type vs Impact  
 
 ---
-
-## 💎 Project Structure
-
-
 ## 💎 Project Structure
 CyberSecurityProject/
 ├── cybersecurity_attacks.csv
@@ -115,3 +111,4 @@ CyberSecurityProject/
 
 Esraa  
 Data Analysis – Cyber Security Domain
+
