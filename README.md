@@ -89,11 +89,17 @@ Dashboard includes:
 ---
 ## 💎 Project Structure
 CyberSecurityProject/
+
 ├── cybersecurity_attacks.csv
+
 ├── analysis.ipynb
+
 ├── dashboard.png # place your dashboard image here
+
 ├── cybersecurity_attacks_Dashboard.pbix
+
 ├── Attack.xlsx
+
 ├── README.md
 
 ---
@@ -111,4 +117,5 @@ CyberSecurityProject/
 
 Esraa  
 Data Analysis – Cyber Security Domain
+
 
