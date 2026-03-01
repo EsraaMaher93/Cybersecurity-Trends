@@ -94,7 +94,7 @@ CyberSecurityProject/
 
 ├── analysis.ipynb
 
-├── dashboard.png # place your dashboard image here
+├── dashboard.png 
 
 ├── cybersecurity_attacks_Dashboard.pbix
 
@@ -117,5 +117,6 @@ CyberSecurityProject/
 
 Esraa  
 Data Analysis – Cyber Security Domain
+
 
 
